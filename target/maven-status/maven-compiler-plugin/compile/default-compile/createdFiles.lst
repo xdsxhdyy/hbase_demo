@@ -1,0 +1,4 @@
+mr1\FruitRunner.class
+mr1\ReadFruitMapper.class
+mr1\WriteFruitReducer.class
+main\HBaseUtil.class
